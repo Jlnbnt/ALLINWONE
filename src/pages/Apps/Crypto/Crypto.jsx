@@ -32,6 +32,7 @@ export default function StickyHeadTable() {
     setCrypto();
     setSearch("");
     fetchCrypto();
+    // eslint-disable-next-line
   }, []);
 
   return (

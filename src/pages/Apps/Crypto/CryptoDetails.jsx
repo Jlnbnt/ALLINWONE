@@ -20,6 +20,7 @@ const CryptoDetails = () => {
     if (!crypto) {
       navigate("/crypto");
     }
+    // eslint-disable-next-line
   }, []);
 
   return (

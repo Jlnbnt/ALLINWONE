@@ -1,7 +1,6 @@
 import { Link, NavLink } from "react-router-dom";
 
 import { MdOutlineCancel } from "react-icons/md";
-import { GiSurferVan } from "react-icons/gi";
 
 import Tooltip from "@mui/material/Tooltip";
 

@@ -17,8 +17,6 @@ export const ComponentsProvider = ({ children }) => {
     rowsPerPage,
     handleChangePage,
     handleChangeRowsPerPage,
-    activeMenu,
-    screenSize,
   } = useStateContext();
 
   const TableHeadCell = ({ text }) => {
