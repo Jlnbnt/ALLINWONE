@@ -106,7 +106,9 @@ const CryptoDataCard = ({ coin }) => {
                   <br />
                   <p>{`${getDateFormat(
                     coin.market_data.ath_date.usd
-                  )} ( ${getDifDate(coin.market_data.ath_date.usd)} )`}</p>
+                  )} ( ${getDifDate(
+                    coin.market_data.ath_date.usd
+                  ).toLocaleString()} )`}</p>
                 </TableCell>
               </TableRow>
               <TableRow

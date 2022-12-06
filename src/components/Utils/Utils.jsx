@@ -25,10 +25,10 @@ export const links = [
         name: "crypto",
         icon: <BsCurrencyBitcoin />,
       },
-      {
+      /*   {
         name: "news",
         icon: <IoNewspaperOutline />,
-      },
+      }, */
     ],
   },
   {
@@ -106,12 +106,12 @@ export const homeApps = [
     link: "/crypto",
     icon: <BsCurrencyBitcoin />,
   },
-  {
+  /*   {
     title: "News",
     img: "https://images.pexels.com/photos/936137/pexels-photo-936137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     link: "/news",
     icon: <IoNewspaperOutline />,
-  },
+  }, */
 ];
 
 /* Radio component */
