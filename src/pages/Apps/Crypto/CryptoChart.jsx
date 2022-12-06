@@ -2,8 +2,6 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 
 import { Line } from "react-chartjs-2";
-// eslint-disable-next-line
-import { Chart as ChartJS } from "chart.js/auto";
 
 import Stack from "@mui/material/Stack";
 import { CircularProgress } from "@mui/material";
