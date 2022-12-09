@@ -4,15 +4,15 @@
 
 ### React Application
 
-#### Une simple application utilisant entre autres les principes suivants :
+#### A simple app showcasing the following principles :
 
 - React Routing
 - API calls & data manipulations
-- States
-- Hooks
+- React States
+- React Hooks
 - Context API
 - Folder structure
 - Material UI
 - Tailwind CSS
 
-#### Découvrez mes autres projets : [Portfolio](https://julienbenat.netlify.app/)
+#### Check out my other projects : [Portfolio](https://julienbenat.netlify.app/)
